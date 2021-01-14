@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(714,5): error MSB3191: Unable to create directory "C:\Users\Colos\Desktop\SSL\Client\SSL\Debug". Access to the path 'C:\Users\Colos\Desktop\SSL\Client\SSL\Debug' is denied.

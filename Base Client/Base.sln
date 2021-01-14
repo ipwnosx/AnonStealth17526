@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xkelib", "xkelib\xkelib.vcxproj", "{83FEF217-22EE-4768-80BF-9F48D5B4564C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Base", "Base\Base.vcxproj", "{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CodeAnalysis|Xbox 360 = CodeAnalysis|Xbox 360
+		Debug|Xbox 360 = Debug|Xbox 360
+		Profile_FastCap|Xbox 360 = Profile_FastCap|Xbox 360
+		Profile|Xbox 360 = Profile|Xbox 360
+		Release_LTCG|Xbox 360 = Release_LTCG|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+		Release21256.0|Xbox 360 = Release21256.0|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.CodeAnalysis|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.CodeAnalysis|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.CodeAnalysis|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Debug|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Debug|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Debug|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile_FastCap|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile_FastCap|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile_FastCap|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Profile|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release_LTCG|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release_LTCG|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release_LTCG|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release21256.0|Xbox 360.ActiveCfg = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release21256.0|Xbox 360.Build.0 = Release21256.0|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Release21256.0|Xbox 360.Deploy.0 = Release21256.0|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.CodeAnalysis|Xbox 360.ActiveCfg = CodeAnalysis|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.CodeAnalysis|Xbox 360.Build.0 = CodeAnalysis|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Profile_FastCap|Xbox 360.ActiveCfg = Profile_FastCap|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Profile_FastCap|Xbox 360.Build.0 = Profile_FastCap|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Profile|Xbox 360.ActiveCfg = Profile|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Profile|Xbox 360.Build.0 = Profile|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release_LTCG|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release_LTCG|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release21256.0|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{70B05CEC-B5E5-4833-8CDE-3B30DFCD56BA}.Release21256.0|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  HvPeekPoke.cpp
+  KeyVault.cpp
+  Server.cpp
+  Sockets.cpp
+  SystemHooks.cpp
+  titleHooks.cpp
+titleHooks.cpp(184): warning C4482: nonstandard extension used: enum '_XPRIVILEGE_TYPE' used in qualified name
+titleHooks.cpp(185): warning C4482: nonstandard extension used: enum '_XPRIVILEGE_TYPE' used in qualified name
+titleHooks.cpp(186): warning C4482: nonstandard extension used: enum '_XPRIVILEGE_TYPE' used in qualified name
+titleHooks.cpp(187): warning C4482: nonstandard extension used: enum '_XPRIVILEGE_TYPE' used in qualified name
+titleHooks.cpp(187): warning C4482: nonstandard extension used: enum '_XPRIVILEGE_TYPE' used in qualified name
+titleHooks.cpp(301): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Utilities.cpp
+  Base.cpp
+  Xosc.cpp
+Xosc.cpp(36): warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+  Generating code
+d:\xbox modding\base\base\titlehooks.cpp(199): warning C4715: 'XeXGetModuleHandleHook' : not all control paths return a value
+  Finished generating code

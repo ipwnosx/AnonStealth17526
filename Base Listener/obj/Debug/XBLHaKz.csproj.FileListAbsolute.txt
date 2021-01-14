@@ -1,0 +1,9 @@
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\bin\Debug\XBLHaKz.exe.config
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\bin\Debug\XBLHaKz.exe
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\bin\Debug\XBLHaKz.pdb
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\bin\Debug\MySql.Data.dll
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\obj\Debug\XBLHakz.MainPanel.resources
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\obj\Debug\XBLHaKz.csproj.GenerateResource.Cache
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\obj\Debug\XBLHaKz.exe
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\obj\Debug\XBLHaKz.pdb
+C:\Users\arron_mtcxtvy\Desktop\Revelations\Listener\XBLSRevelations\obj\Debug\XBLHaKz.csprojResolveAssemblyReference.cache

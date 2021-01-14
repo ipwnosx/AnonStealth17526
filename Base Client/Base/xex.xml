@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xex>
+<baseaddr addr="0x90EA0000"/>
+<!--0x90E00000-->
+<sysdll/>
+<exportcontainer name="XBLS.def"/>
+-<format>
+  <compressed/>
+</format>
+-<mediatypes>
+  <default/>
+  <allpackages/>
+</mediatypes>
+-<gameregion>
+  <all/>
+</gameregion>
+<!-- This will make it look like xosc9v2. -->
+<titleid id="0x00090002"/>
+<version qfe="0" build="17511" minor="0" major="2"/>
+</xex>

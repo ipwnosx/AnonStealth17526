@@ -1,0 +1,3 @@
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\bin\Release\SWATStealth.exe.config
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Release\XBLSRevelations.MainPanel.resources
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Release\RestrictedLive.csproj.GenerateResource.Cache

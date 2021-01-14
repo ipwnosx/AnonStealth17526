@@ -1,0 +1,15 @@
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\bin\Debug\Base.exe.config
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\bin\Debug\Base.exe
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\bin\Debug\Base.pdb
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\bin\Debug\MySql.Data.dll
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\obj\Debug\Base.exe
+C:\Users\itspu\Desktop\17511 Source\Base Listner\Base Listener\obj\Debug\Base.pdb
+D:\Xbox Modding\Base\Base Listener\bin\Debug\Base.exe.config
+D:\Xbox Modding\Base\Base Listener\bin\Debug\Base.exe
+D:\Xbox Modding\Base\Base Listener\bin\Debug\Base.pdb
+D:\Xbox Modding\Base\Base Listener\bin\Debug\MySql.Data.dll
+D:\Xbox Modding\Base\Base Listener\obj\Debug\Base.csprojAssemblyReference.cache
+D:\Xbox Modding\Base\Base Listener\obj\Debug\Base.csproj.CoreCompileInputs.cache
+D:\Xbox Modding\Base\Base Listener\obj\Debug\Base.csproj.CopyComplete
+D:\Xbox Modding\Base\Base Listener\obj\Debug\Base.exe
+D:\Xbox Modding\Base\Base Listener\obj\Debug\Base.pdb

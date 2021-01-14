@@ -1,0 +1,12 @@
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\bin\Debug\GlitchinLive.exe.config
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\bin\Debug\GlitchinLive.exe
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\bin\Debug\GlitchinLive.pdb
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\bin\Debug\MySql.Data.dll
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\obj\Debug\GlitchinLive.csprojResolveAssemblyReference.cache
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\obj\Debug\GlitchinLive.csproj.GenerateResource.Cache
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\obj\Debug\GlitchinLive.exe
+C:\Users\arron_mtcxtvy\Desktop\GlitchinLive\Listener\XBLSRevelations\obj\Debug\GlitchinLive.pdb
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\bin\Debug\GlitchinLive.exe.config
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\GlitchinLive.exe
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\GlitchinLive.pdb

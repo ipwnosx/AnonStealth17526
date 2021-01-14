@@ -1,0 +1,5 @@
+I got bored and decided to update base 17511 source to 17526!
+Everything is here and working! Rest is up to you....
+You will need a win server 2012 r2 VPS to host the stealth server.
+If any questions pm me on discord Anon#0166
+Don't forget to like & subscribe!

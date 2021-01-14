@@ -1,0 +1,12 @@
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\bin\Debug\NuclearLive.exe.config
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\bin\Debug\NuclearLive.exe
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\bin\Debug\NuclearLive.pdb
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\bin\Debug\MySql.Data.dll
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\NuclearLive.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\NuclearLive.csproj.GenerateResource.Cache
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\NuclearLive.exe
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\NuclearLive.pdb
+C:\Users\itspu\Desktop\Scott.M\Listener\XBLSRevelations\bin\Debug\NuclearLive.exe.config
+C:\Users\itspu\Desktop\Scott.M\Listener\XBLSRevelations\obj\Debug\NuclearLive.exe
+C:\Users\itspu\Desktop\Scott.M\Listener\XBLSRevelations\obj\Debug\NuclearLive.pdb

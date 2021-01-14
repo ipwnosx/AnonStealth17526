@@ -1,0 +1,15 @@
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\obj\Debug\Pugzlife.csproj.GenerateResource.Cache
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\bin\Debug\Pugzlife.exe.config
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\bin\Debug\Pugzlife.exe
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\bin\Debug\Pugzlife.pdb
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\bin\Debug\MySql.Data.dll
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\obj\Debug\Pugzlife.exe
+C:\Users\arron_mtcxtvy\Desktop\Pugzlife\Listener\XBLSRevelations\obj\Debug\Pugzlife.pdb
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\bin\Debug\Pugzlife.exe.config
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\obj\Debug\Pugzlife.exe
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\obj\Debug\Pugzlife.pdb
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\obj\Debug\Pugzlife.csprojResolveAssemblyReference.cache
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\obj\Debug\Pugzlife.csproj.GenerateResource.Cache
+C:\Users\arron_mtcxtvy\Desktop\XBLSkittles\Listener\XBLSRevelations\bin\Debug\XBLSkittles.exe.config

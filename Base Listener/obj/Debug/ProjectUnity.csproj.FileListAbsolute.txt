@@ -1,0 +1,23 @@
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\bin\Debug\ProjectUnity.exe.config
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\bin\Debug\ProjectUnity.exe
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\bin\Debug\ProjectUnity.pdb
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\bin\Debug\MySql.Data.dll
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\obj\Debug\ProjectUnity.MainPanel.resources
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\obj\Debug\ProjectUnity.csproj.GenerateResource.Cache
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\obj\Debug\ProjectUnity.exe
+C:\Users\proje\Desktop\ProjectUnity Listner\ProjectUnity\obj\Debug\ProjectUnity.pdb
+E:\ProjectUnity\Listner\ProjectUnity\bin\Debug\ProjectUnity.exe.config
+E:\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.exe
+E:\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.pdb
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\bin\Debug\ProjectUnity.exe.config
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.exe
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.pdb
+C:\Users\proje\Desktop\HadesLive\Listner\HadesLive\bin\Debug\ProjectUnity.exe.config
+C:\Users\proje\Desktop\HadesLive\Listner\HadesLive\obj\Debug\ProjectUnity.exe
+C:\Users\proje\Desktop\HadesLive\Listner\HadesLive\obj\Debug\ProjectUnity.pdb
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.csprojResolveAssemblyReference.cache
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.MainPanel.resources
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\obj\Debug\ProjectUnity.csproj.GenerateResource.Cache
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\bin\Debug\ProjectUnity.exe
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\bin\Debug\ProjectUnity.pdb
+C:\Users\proje\Desktop\ProjectUnity\Listner\ProjectUnity\bin\Debug\MySql.Data.dll

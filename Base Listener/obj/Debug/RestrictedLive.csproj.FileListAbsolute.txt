@@ -1,0 +1,10 @@
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\RestrictedLive.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\RestrictedLive.csproj.GenerateResource.Cache
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\SWATStealth.exe
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\obj\Debug\SWATStealth.pdb
+C:\Users\scott\Desktop\for scott\Listener\XBLSRevelations\bin\Debug\SWATStealth.exe.config
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\bin\Debug\SWATStealth.exe.config
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\RestrictedLive.csprojResolveAssemblyReference.cache
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\XBLSRevelations.MainPanel.resources
+C:\Users\scott\Desktop\New folder\server files do not delete\New folder\for scott\Listener\XBLSRevelations\obj\Debug\RestrictedLive.csproj.GenerateResource.Cache
